@@ -26,7 +26,7 @@ A simple React application for user signup with form validation.
 - Vercel (for deployment)
 
 ## Deployment
-The project is deployed on Vercel. Access it here: [Live Demo](https://your-project-name.vercel.app)
+The project is deployed on Vercel. Access it here: [Live Demo](https://react-form-iota-six.vercel.app/)
 
 To deploy your own version:
 1. Install Vercel CLI: `npm i -g vercel`
